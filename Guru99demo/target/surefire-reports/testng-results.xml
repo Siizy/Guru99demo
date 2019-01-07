@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="21365" started-at="2019-01-06T17:42:03Z" finished-at="2019-01-06T17:42:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="21365" started-at="2019-01-06T17:42:03Z" finished-at="2019-01-06T17:42:24Z">
+      <class name="com.guru99.pagefiles.HomePage">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.guru99.pagefiles.HomePage@224edc67]" name="beforeSuite" is-config="true" duration-ms="166" started-at="2019-01-06T17:42:03Z" finished-at="2019-01-06T17:42:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.guru99.pagefiles.HomePage@224edc67]" name="beforeMethod" is-config="true" duration-ms="5081" started-at="2019-01-06T17:42:03Z" finished-at="2019-01-06T17:42:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.guru99.pagefiles.HomePage.cinema()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="cinema()[pri:0, instance:com.guru99.pagefiles.HomePage@224edc67]" name="cinema" duration-ms="5475" started-at="2019-01-06T17:42:08Z" finished-at="2019-01-06T17:42:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cinema -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.guru99.pagefiles.HomePage@224edc67]" name="afterMethod" is-config="true" duration-ms="563" started-at="2019-01-06T17:42:14Z" finished-at="2019-01-06T17:42:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.guru99.pagefiles.HomePage.cinema()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.guru99.pagefiles.HomePage@224edc67]" name="beforeMethod" is-config="true" duration-ms="4192" started-at="2019-01-06T17:42:14Z" finished-at="2019-01-06T17:42:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.guru99.pagefiles.HomePage.cinema2()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="cinema2()[pri:0, instance:com.guru99.pagefiles.HomePage@224edc67]" name="cinema2" duration-ms="5586" started-at="2019-01-06T17:42:18Z" finished-at="2019-01-06T17:42:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cinema2 -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.guru99.pagefiles.HomePage@224edc67]" name="afterMethod" is-config="true" duration-ms="444" started-at="2019-01-06T17:42:24Z" finished-at="2019-01-06T17:42:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.guru99.pagefiles.HomePage.cinema2()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.guru99.pagefiles.HomePage@224edc67]" name="afterSuite" is-config="true" duration-ms="565" started-at="2019-01-06T17:42:25Z" finished-at="2019-01-06T17:42:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.guru99.pagefiles.HomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

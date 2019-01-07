@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="8" total="10" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25412" started-at="2019-01-06T17:35:29Z" finished-at="2019-01-06T17:35:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25412" started-at="2019-01-06T17:35:29Z" finished-at="2019-01-06T17:35:55Z">
+      <class name="com.guru99.utils.Initialize">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.guru99.utils.Initialize@13a5fe33]" name="beforeSuite" is-config="true" duration-ms="160" started-at="2019-01-06T23:05:29Z" finished-at="2019-01-06T23:05:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.guru99.utils.Initialize@13a5fe33]" name="afterSuite" is-config="true" duration-ms="612" started-at="2019-01-06T23:05:55Z" finished-at="2019-01-06T23:05:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.guru99.utils.Initialize -->
+      <class name="com.guru99.pagefiles.HomePage">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.guru99.pagefiles.HomePage@3108bc]" name="beforeMethod" is-config="true" duration-ms="8168" started-at="2019-01-06T23:05:30Z" finished-at="2019-01-06T23:05:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.guru99.pagefiles.HomePage.cinema()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="cinema()[pri:0, instance:com.guru99.pagefiles.HomePage@3108bc]" name="cinema" duration-ms="5497" started-at="2019-01-06T23:05:38Z" finished-at="2019-01-06T23:05:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cinema -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.guru99.pagefiles.HomePage@3108bc]" name="afterMethod" is-config="true" duration-ms="418" started-at="2019-01-06T23:05:43Z" finished-at="2019-01-06T23:05:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.guru99.pagefiles.HomePage.cinema()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.guru99.pagefiles.HomePage@3108bc]" name="beforeMethod" is-config="true" duration-ms="4106" started-at="2019-01-06T23:05:44Z" finished-at="2019-01-06T23:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.guru99.pagefiles.HomePage.cinema2()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="cinema2()[pri:0, instance:com.guru99.pagefiles.HomePage@3108bc]" name="cinema2" duration-ms="6822" started-at="2019-01-06T23:05:48Z" finished-at="2019-01-06T23:05:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cinema2 -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.guru99.pagefiles.HomePage@3108bc]" name="afterMethod" is-config="true" duration-ms="359" started-at="2019-01-06T23:05:55Z" finished-at="2019-01-06T23:05:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.guru99.pagefiles.HomePage.cinema2()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.guru99.pagefiles.HomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

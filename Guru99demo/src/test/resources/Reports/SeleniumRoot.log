@@ -1,0 +1,10 @@
+2019-01-06 23:12:03 [INFO] Initialize :35 - HomePageis invoked
+2019-01-06 23:12:03 [INFO] Initialize :90 - config file was successfully loaded
+2019-01-06 23:12:08 [INFO] Initialize :67 - 
+2019-01-06 23:12:18 [INFO] Initialize :67 - 
+2019-01-06 23:12:25 [DEBUG] _Log4jLoggerFactory$Log4jLogger :45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-01-06 23:12:25 [DEBUG] _Log4jLoggerFactory$Log4jLogger :45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-01-06 23:12:25 [DEBUG] _Log4jLoggerFactory$Log4jLogger :45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-01-06 23:12:25 [DEBUG] _Log4jLoggerFactory$Log4jLogger :45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-01-06 23:12:25 [DEBUG] _Log4jLoggerFactory$Log4jLogger :45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Mamta/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-01-06 23:12:25 [INFO] Initialize :56 - Test Executions ended
